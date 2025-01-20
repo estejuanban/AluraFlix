@@ -1,5 +1,5 @@
 
-AluraFlix
+# AluraFlix
 Challenge React curso Front End React Alura Latam
 
 Fotos de ejemplo de la pagina 
